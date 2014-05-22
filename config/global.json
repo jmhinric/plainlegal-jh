@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Plainlegal Todo": {
+            "applicationId": "ttnsQFKq5KjSzJnUbXOS7QR52AUij0UXXL8m1XGr", 
+            "masterKey": "o62onMYvQnol8son9QELh1T0VG3co41IltRiHkkA"
+        }, 
+        "_default": {
+            "link": "Plainlegal Todo"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
